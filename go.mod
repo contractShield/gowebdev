@@ -1,3 +1,3 @@
-module github.com.tsawler/myniceprogram
+module github.com/contractShield/gowebdev
 
 go 1.19
